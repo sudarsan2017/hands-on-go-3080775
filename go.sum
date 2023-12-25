@@ -4,3 +4,5 @@ github.com/jboursiquot/go-proverbs v0.0.2 h1:LlJpbPfW6+HThOwZR+VsJwpRQL6xHOLsWjX
 github.com/jboursiquot/go-proverbs v0.0.2/go.mod h1:Fkb7X/GdAApOZjs+v4eREbG/UnzgHiLOLq7RbkKUf3U=
 golang.org/x/exp v0.0.0-20220921164117-439092de6870 h1:j8b6j9gzSigH28O5SjSpQSSh9lFd6f5D/q0aHjNTulc=
 golang.org/x/exp v0.0.0-20220921164117-439092de6870/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
+golang.org/x/exp v0.0.0-20231219180239-dc181d75b848 h1:+iq7lrkxmFNBM7xx+Rae2W6uyPfhPeDWD+n+JgppptE=
+golang.org/x/exp v0.0.0-20231219180239-dc181d75b848/go.mod h1:iRJReGqOEeBhDZGkGbynYwcHlctCvnjTYIamk7uXpHI=
